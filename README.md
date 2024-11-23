@@ -18,6 +18,8 @@ The dataset provides historical data about the passengers aboard the Titanic, al
 
 ### **📈 Results**
 - Achieved a classification accuracy of **77%** on the test dataset.
+- ![Kaggle_score](https://github.com/user-attachments/assets/e6a6afe3-624c-404e-90ef-2567881654b2)
+
 
 ## 🚀 How to Run
 
